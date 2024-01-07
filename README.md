@@ -45,27 +45,5 @@
 7. Python for Data Analysis: 3rd Edition, Wes McKinney ,Publisher(s): O'Reilly Media, Inc.
 8. Ben Fry, ‘Visualizing data: Exploring and explaining data with the processing environment’, O'Reilly, 2008.
 
-## Free Python Online Courses
-
-[1. Learn Python- Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw)
-
-[2. Learn Python Course](https://www.learnpython.org/)
-
-[3. DataCamp Python Programming Course](https://www.datacamp.com/tracks/python-programming)
-
-[4. Google Python Class](https://developers.google.com/edu/python/)
-
-[5. Official Docs Tutorial](https://docs.python.org/3/tutorial/index.html)
-
-[6. NumPy Tutorial](https://www.pythonprogramming.in/numpy-tutorial-with-examples-and-solutions.html)
-
-## Online Python Editors : 	
-
-* [Tutorial Point](https://www.tutorialspoint.com/execute_python_online.php)
-
-* [Programiz](https://www.programiz.com/python-programming/online-compiler/)
-
-* [Onlinegdb](https://www.onlinegdb.com/online_python_compiler)
-
 ## Acknowledgemnts
 * This material was prepared as a part of Course - **Data Analytics and Visualization** offered by the **University of Mumbai** to the Third Year Students of Artifical Intelligence & Data Science** Engineering Branch.
