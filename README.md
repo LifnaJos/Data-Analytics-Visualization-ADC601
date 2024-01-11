@@ -2,7 +2,7 @@
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 [Evaluation Scheme](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/DAV_Scheme.pdf)
-## [Module - 1 : Introduction to Data analytics and life cycle](
+## [Module - 1 : Introduction to Data analytics and life cycle](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/M1_DAV.pdf)
 
 **Data Analytics Lifecycle overview**: Key Roles for a Successful Analytics, Background and Overview of Data Analytics Lifecycle Project.  
 
