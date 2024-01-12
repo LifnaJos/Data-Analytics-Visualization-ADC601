@@ -19,7 +19,9 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 **Phase 6**: Operationalize
 
 ## Module - 2  : Regression Models
-- Introduction to SLR and MLR model, polynomial regression models; interaction models; qualitative predictor variables. Model selection procedures Leverage; influence measures; diagnostics. Weighted least squares; ridge regression; loess regression; bootstrapping.
+- Introduction to SLR and MLR model, polynomial regression models; interaction models; qualitative predictor variables.
+- Model selection procedures Leverage; influence measures; diagnostics.
+- Weighted least squares; ridge regression; loess regression; bootstrapping.
 - Logistic Regression: Logistic Response function and logit, Logistic Regression and GLM, Generalized Linear model, Predicted values from Logistic Regression, Interpreting the coefficients and odds ratios, Linear and Logistic Regression: similarities and Differences, Assessing the models.
   
 ## Module - 3 : Time Series
