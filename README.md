@@ -41,7 +41,8 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 ## Online Resources 
 1. [Stat 501 : Regression Methods by  Penn State University, Online Course Notes](https://online.stat.psu.edu/stat501/)
-2. 
+2. [Regression Analysis](https://archive.nptel.ac.in/courses/111/105/111105042/)
+   
 ## Text Books & References :
 1. [Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data,EMC Education services Wiley Publication](https://bhavanakhivsara.files.wordpress.com/2018/06/data-science-and-big-data-analy-nieizv_book.pdf)
 2. Data Analytics using Python: Bharati Motwani, Wiley Publications.
