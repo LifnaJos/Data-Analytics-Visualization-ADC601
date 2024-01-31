@@ -23,6 +23,8 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - Model selection procedures Leverage; influence measures; diagnostics.
 - Weighted least squares; ridge regression; loess regression; bootstrapping.
 - Logistic Regression: Logistic Response function and logit, Logistic Regression and GLM, Generalized Linear model, Predicted values from Logistic Regression, Interpreting the coefficients and odds ratios, Linear and Logistic Regression: similarities and Differences, Assessing the models.
+
+[Google Colab - Simple Linear Regression using R]()
   
 ## Module - 3 : Time Series
 - Definition of time series, Times series forecasting. Time series components, Decomposition – additive and multiplicative. Exponential smoothing, Holt winters method.
