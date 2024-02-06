@@ -42,8 +42,13 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 ## Online Resources 
 1. [Stat 501 : Regression Methods by  Penn State University, Online Course Notes](https://online.stat.psu.edu/stat501/)
 2. [Regression Analysis](https://archive.nptel.ac.in/courses/111/105/111105042/)
-3. Google Colab - Regression using R : prepared based on Penn State University Stat 501 Course
-   - [Stat 501 : Lesson 1](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/Stat501_Lesson_1.ipynb)   
+3. [Applied Linear Regression - Sanford Weisberg](https://www.stat.purdue.edu/~qfsong/teaching/525/book/Weisberg-Applied-Linear-Regression-Wiley.pdf)
+4. [Regression Analysis by Example](https://sadbhavnapublications.org/research-enrichment-material/2-Statistical-Books/Regression-Analysis-by-Example.pdf)
+5. [Applied Regression Analysis with SAS - Mc Master University, Cananda](https://ms.mcmaster.ca/canty/teaching/stat3a03/)
+6. Google Colab - Regression using R : prepared based on Penn State University Stat 501 Course
+   - [Stat 501 : Lesson 1](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/Stat501_Lesson_1.ipynb)
+
+     
 ## Text Books & References :
 1. [Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data,EMC Education services Wiley Publication](https://bhavanakhivsara.files.wordpress.com/2018/06/data-science-and-big-data-analy-nieizv_book.pdf)
 2. Data Analytics using Python: Bharati Motwani, Wiley Publications.
