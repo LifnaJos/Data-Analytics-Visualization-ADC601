@@ -45,7 +45,8 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 3. [Applied Linear Regression - Sanford Weisberg](https://www.stat.purdue.edu/~qfsong/teaching/525/book/Weisberg-Applied-Linear-Regression-Wiley.pdf)
 4. [Regression Analysis by Example](https://sadbhavnapublications.org/research-enrichment-material/2-Statistical-Books/Regression-Analysis-by-Example.pdf)
 5. [Applied Regression Analysis with SAS - Mc Master University, Cananda](https://ms.mcmaster.ca/canty/teaching/stat3a03/)
-6. Google Colab - Regression using R : prepared based on Penn State University Stat 501 Course
+6. [applied Regression Analysis using R - University of Chicago](https://www.stat.uchicago.edu/~yibi/teaching/stat224/)
+7. Google Colab - Regression using R : prepared based on Penn State University Stat 501 Course
    - [Stat 501 : Lesson 1](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/Stat501_Lesson_1.ipynb)
 
      
