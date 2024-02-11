@@ -41,13 +41,14 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 ## Online Resources 
 1. [Stat 501 : Regression Methods by  Penn State University, Online Course Notes](https://online.stat.psu.edu/stat501/)
-2. [Regression Analysis](https://archive.nptel.ac.in/courses/111/105/111105042/)
-3. [Applied Linear Regression - Sanford Weisberg](https://www.stat.purdue.edu/~qfsong/teaching/525/book/Weisberg-Applied-Linear-Regression-Wiley.pdf)
-4. [Regression Analysis by Example](https://sadbhavnapublications.org/research-enrichment-material/2-Statistical-Books/Regression-Analysis-by-Example.pdf)
-5. [Regression Analysis by Example - Textbook Datasets](https://www1.aucegypt.edu/faculty/hadi/RABE5/)
-6. [Applied Regression Analysis with SAS - Mc Master University, Cananda](https://ms.mcmaster.ca/canty/teaching/stat3a03/)
-7. [Applied Regression Analysis using R - University of Chicago](https://www.stat.uchicago.edu/~yibi/teaching/stat224/)
-8. Google Colab - Regression using R : prepared based on Penn State University Stat 501 Course
+2. [Course on Econometrics - Ben Lambert](https://www.youtube.com/watch?v=M_5SLG7sUa0&list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU)
+3. [Regression Analysis](https://archive.nptel.ac.in/courses/111/105/111105042/)
+4. [Applied Linear Regression - Sanford Weisberg](https://www.stat.purdue.edu/~qfsong/teaching/525/book/Weisberg-Applied-Linear-Regression-Wiley.pdf)
+5. [Regression Analysis by Example](https://sadbhavnapublications.org/research-enrichment-material/2-Statistical-Books/Regression-Analysis-by-Example.pdf)
+6. [Regression Analysis by Example - Textbook Datasets](https://www1.aucegypt.edu/faculty/hadi/RABE5/)
+7. [Applied Regression Analysis with SAS - Mc Master University, Cananda](https://ms.mcmaster.ca/canty/teaching/stat3a03/)
+8. [Applied Regression Analysis using R - University of Chicago](https://www.stat.uchicago.edu/~yibi/teaching/stat224/)
+9. Google Colab - Regression using R : prepared based on Penn State University Stat 501 Course
    - [Stat 501 : Lesson 1](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/Stat501_Lesson_1.ipynb)
 
      
