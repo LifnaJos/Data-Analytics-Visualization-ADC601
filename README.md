@@ -3,26 +3,23 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 [Evaluation Scheme](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/DAV_Scheme.pdf)
 ## [Module - 1 : Introduction to Data analytics and life cycle](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/M1_DAV.pdf)
-
-**Data Analytics Lifecycle overview**: Key Roles for a Successful Analytics, Background and Overview of Data Analytics Lifecycle Project.  
-
-**Phase 1**: Discovery: Learning the Business Domain, Resources Framing the Problem, Identifying Key Stakeholders. Interviewing the Analytics Sponsor, Developing Initial Hypotheses Identifying Potential Data Sources.
-
-**Phase 2**: Data Preparation: Preparing the Analytic Sandbox, Performing ETLT, Learning About the Data, Data Conditioning, Survey and visualize, Common Tools for the Data Preparation Phase.
-
-**Phase 3**: Model Planning: Data Exploration and Variable Selection, Model Selection ,Common Tools for the Model Planning Phase
-
-**Phase 4**: Model Building: Common Tools for the Model Building Phase
-
-**Phase 5**: Communicate Results
-
-**Phase 6**: Operationalize
+- **Data Analytics Lifecycle overview**: Key Roles for a Successful Analytics, Background and Overview of Data Analytics Lifecycle Project.  
+- **Phase 1**: Discovery: Learning the Business Domain, Resources Framing the Problem, Identifying Key Stakeholders. Interviewing the Analytics Sponsor, Developing Initial Hypotheses Identifying Potential Data Sources.
+- **Phase 2**: Data Preparation: Preparing the Analytic Sandbox, Performing ETLT, Learning About the Data, Data Conditioning, Survey and visualize, Common Tools for the Data Preparation Phase.
+- **Phase 3**: Model Planning: Data Exploration and Variable Selection, Model Selection ,Common Tools for the Model Planning Phase
+- **Phase 4**: Model Building: Common Tools for the Model Building Phase
+- **Phase 5**: Communicate Results
+- **Phase 6**: Operationalize
 
 ## Module - 2  : Regression Models
 - Introduction to SLR and MLR model, polynomial regression models; interaction models; qualitative predictor variables.
 - Model selection procedures Leverage; influence measures; diagnostics.
 - Weighted least squares; ridge regression; loess regression; bootstrapping.
 - Logistic Regression: Logistic Response function and logit, Logistic Regression and GLM, Generalized Linear model, Predicted values from Logistic Regression, Interpreting the coefficients and odds ratios, Linear and Logistic Regression: similarities and Differences, Assessing the models.
+- Colab Notebooks on Regression
+  - [SLR using R - (Penn State University Stat 501 Course)](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/Stat501_Lesson_1.ipynb)
+  - [MLR using R - Part 1 (University of Chicago)](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/MLR_using_R.ipynb)
+  -  [MLR using R - Part 2 (University of Chicago)](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/MLR_using_R_(Part_2).ipynb)
 
 ## Module - 3 : Time Series
 - Definition of time series, Times series forecasting. Time series components, Decomposition – additive and multiplicative. Exponential smoothing, Holt winters method.
@@ -47,9 +44,6 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 5. [Regression Analysis by Example - Textbook Datasets](https://www1.aucegypt.edu/faculty/hadi/RABE5/)
 6. [Applied Regression Analysis with SAS - Mc Master University, Cananda](https://ms.mcmaster.ca/canty/teaching/stat3a03/)
 7. [Applied Regression Analysis using R - University of Chicago](https://www.stat.uchicago.edu/~yibi/teaching/stat224/)
-8. Google Colab - Regression using R : prepared based on Penn State University Stat 501 Course
-   - [Stat 501 : Lesson 1](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/Stat501_Lesson_1.ipynb)
-
      
 ## Text Books & References :
 1. [Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data,EMC Education services Wiley Publication](https://bhavanakhivsara.files.wordpress.com/2018/06/data-science-and-big-data-analy-nieizv_book.pdf)
