@@ -12,10 +12,13 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - **Phase 6**: Operationalize
 
 ## Module - 2  : Regression Models
-- Introduction to SLR and MLR model, polynomial regression models; interaction models; qualitative predictor variables.
-- Model selection procedures Leverage; influence measures; diagnostics.
-- Weighted least squares; ridge regression; loess regression; bootstrapping.
-- Logistic Regression: Logistic Response function and logit, Logistic Regression and GLM, Generalized Linear model, Predicted values from Logistic Regression, Interpreting the coefficients and odds ratios, Linear and Logistic Regression: similarities and Differences, Assessing the models.
+- Introduction to Regression
+- Types of Regression : Simple Linear Regression, Multiple Linear Regression, Polynomial regression, Interaction Regression, Weighted least squares Regression, Ridge Regression, Loess Regression, Bootstrapping Regression
+- Qualitative predictor variables, Model Evaluation Measures, Model selection procedures, Leverage, Influence measures, Diagnostics.
+- Logistic Regression: Logistic Response function and logit,  Predicted values from Logistic Regression, Interpreting the coefficients and odds ratios
+- Generalized Linear model
+- Logistic Regression and GLM, 
+- Linear and Logistic Regression: , Assessing the models.
 - Colab Notebooks on Regression
   - [SLR using R - (Penn State University Stat 501 Course)](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/Stat501_Lesson_1.ipynb)
   - [MLR using R - Part 1 (University of Chicago)](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/MLR_using_R.ipynb)
