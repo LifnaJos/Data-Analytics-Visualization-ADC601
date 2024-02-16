@@ -23,6 +23,8 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - Model selection procedures Leverage; influence measures; diagnostics.
 - Weighted least squares; ridge regression; loess regression; bootstrapping.
 - Logistic Regression: Logistic Response function and logit, Logistic Regression and GLM, Generalized Linear model, Predicted values from Logistic Regression, Interpreting the coefficients and odds ratios, Linear and Logistic Regression: similarities and Differences, Assessing the models.
+### Google Colab 
+- [Regression using R : prepared based on Penn State University Stat 501 Course : Lesson 1](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/Stat501_Lesson_1.ipynb)
 
 ## Module - 3 : Time Series
 - Definition of time series, Times series forecasting. Time series components, Decomposition – additive and multiplicative. Exponential smoothing, Holt winters method.
@@ -48,9 +50,6 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 6. [Regression Analysis by Example - Textbook Datasets](https://www1.aucegypt.edu/faculty/hadi/RABE5/)
 7. [Applied Regression Analysis with SAS - Mc Master University, Cananda](https://ms.mcmaster.ca/canty/teaching/stat3a03/)
 8. [Applied Regression Analysis using R - University of Chicago](https://www.stat.uchicago.edu/~yibi/teaching/stat224/)
-9. Google Colab - Regression using R : prepared based on Penn State University Stat 501 Course
-   - [Stat 501 : Lesson 1](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/Stat501_Lesson_1.ipynb)
-
      
 ## Text Books & References :
 1. [Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data,EMC Education services Wiley Publication](https://bhavanakhivsara.files.wordpress.com/2018/06/data-science-and-big-data-analy-nieizv_book.pdf)
@@ -62,6 +61,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 7. [Python for Data Analysis: 3rd Edition, Wes McKinney ,Publisher(s): O'Reilly Media, Inc.](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)
 8. [Ben Fry, ‘Visualizing data: Exploring and explaining data with the processing environment’, O'Reilly, 2008.](https://media.espora.org/mgoblin_media/media_entries/1633/Visualizing_Data.pdf)
 9. [Nisbet, Robert, John Elder, and Gary D. Miner. Handbook of statistical analysis and data mining applications. Academic press, 2009.](http://repo.darmajaya.ac.id/4157/1/Handbook%20of%20statistical%20analysis%20and%20data%20mining%20applications%20%28%20PDFDrive%20%29.pdf)
+10. [Visualising Data: A Handbook for Data Driven Design (Second Edition)' by Andy Kirk, published by Sage](https://book.visualisingdata.com/chapter/0)
 
 ## Acknowledgemnts
 * This material was prepared as a part of Course - **Data Analytics and Visualization** offered by the **University of Mumbai** to the Third Year Students of Artifical Intelligence & Data Science** Engineering Branch.
