@@ -15,7 +15,10 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - Introduction to Regression
 - Types of Regression : Simple Linear Regression, Multiple Linear Regression, Polynomial regression, Interaction Regression, Weighted least squares Regression, Ridge Regression, Loess Regression, Bootstrapping Regression
 - Qualitative predictor variables, Model Evaluation Measures, Model selection procedures, Leverage, Influence measures, Diagnostics.
-- Logistic Regression: Logistic Response function and logit,  Predicted values from Logistic Regression, Interpreting the coefficients and odds ratios
+- Logistic Regression:
+  - Logistic Response function and logit,
+  - Predicted values from Logistic Regression,
+  - Interpreting the coefficients and odds ratios
 - Generalized Linear model
 - Logistic Regression and GLM, 
 - Linear and Logistic Regression: , Assessing the models.
