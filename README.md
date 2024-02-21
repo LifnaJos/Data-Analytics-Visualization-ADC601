@@ -28,7 +28,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - Definition of time series, Times series forecasting. Time series components, Decomposition – additive and multiplicative. Exponential smoothing, Holt winters method.
 - Time Series Analysis - Box-Jenkins Methodology, ARIMA Model Autocorrelation Function (ACF, PACF) Autoregressive Models ,Moving Average Models ,ARMA and ARIMA Models , Building and Evaluating an ARIMA Model.
 
-## Module - 4 : Introduction to Data Visualization
+## [Module - 4 : Introduction to Data Visualization](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/M4_DAV.pdf)
 - Acquiring and Visualizing Data, Simultaneous acquisition and visualization, Applications of Data Visualization, Keys factors of Data Visualization , Exploring the Visual Data Spectrum: charting Primitives (Data Points, Line Charts, Bar Charts, Pie Charts, Area Charts), Exploring advanced Visualizations (Candlestick Charts, Bubble Charts, Surface Charts, Map Charts) ; Narrative visualization and digital story Telling ,infographics and interactive dashboards
   
 ## Module  - 5 : Introduction to D3.js:
