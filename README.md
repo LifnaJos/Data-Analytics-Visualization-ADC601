@@ -13,15 +13,16 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 ## [Module - 2: Regression Models](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/M2_DAV.pdf)
 - Introduction to Regression
-- Types of Regression : Simple Linear Regression, Multiple Linear Regression, Polynomial regression, Interaction Regression, Weighted least squares Regression, Ridge Regression, Loess Regression, Bootstrapping Regression
+- Types of Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial regression, Interaction Regression, Weighted least squares Regression, Ridge Regression, Loess Regression, Bootstrapping Regression
 - Qualitative predictor variables, Model Evaluation Measures, Model selection procedures, Leverage, Influence measures, Diagnostics.
 - Logistic Regression:
   - Logistic Response function and logit,
   - Predicted values from Logistic Regression,
   - Interpreting the coefficients and odds ratios
 - Generalized Linear model
-- Logistic Regression and GLM, 
-- Linear and Logistic Regression: , Assessing the models.
+- Logistic Regression Vs GLM, 
+- Linear Regression Vs Logistic Regression
+- Assessing the models.
 ### Colab Notebooks on Regression
   - [Regression using R : prepared based on Penn State University Stat 501 Course : Lesson 1](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/Stat501_Lesson_1.ipynb)
   - [MLR using R - Part 1 (University of Chicago)](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/MLR_using_R.ipynb)
