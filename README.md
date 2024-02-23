@@ -11,7 +11,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - **Phase 5**: Communicate Results
 - **Phase 6**: Operationalize
 
-## Module - 2  : Regression Models
+## [Module - 2: Regression Models](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/M2_DAV.pdf)
 - Introduction to Regression
 - Types of Regression : Simple Linear Regression, Multiple Linear Regression, Polynomial regression, Interaction Regression, Weighted least squares Regression, Ridge Regression, Loess Regression, Bootstrapping Regression
 - Qualitative predictor variables, Model Evaluation Measures, Model selection procedures, Leverage, Influence measures, Diagnostics.
