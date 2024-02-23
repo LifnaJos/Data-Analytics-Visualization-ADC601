@@ -41,6 +41,8 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - Essential Data Libraries for data analytics: Pandas, NumPy, SciPy.
 - Plotting and visualization with python: Introduction to Matplotlib, Basic Plotting with Matplotlib, Create Histogram, Bar Chart, Pie Chart, Box Plot, violin plot using Matplotlib, Matrix charts and heat maps.
 - Introduction to seaborne Library, Multiple Plots, Regression plot, replot. Discover and visualize the data to gain insights, Feature scaling and Transformation pipelines
+* Google Colab
+  - [Charts in Colab](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/Charts_in_Colaboratory.ipynb)  
 
 ## Online Resources 
 1. [Stat 501 : Regression Methods by  Penn State University, Online Course Notes](https://online.stat.psu.edu/stat501/)
