@@ -37,8 +37,9 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - Building a graphic that uses all of the population distribution data, Data formats you can use with D3,
 - Creating a server to upload your data, D3’s function for loading data, Dealing with Asynchronous requests,
 - Loading and formatting Large Data Sets
-[D3 Tutorial - FreeCodeCamp](https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/)
-[D3 tutorial - Tutorial Point](https://www.tutorialspoint.com/d3js/index.htm)
+- Online Tutorials:
+  - [D3 Tutorial - FreeCodeCamp](https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/)
+  - [D3 tutorial - Tutorial Point](https://www.tutorialspoint.com/d3js/index.htm)
 
 ## Module  - 6 : Data analytics and Visualization with Python
 - Essential Data Libraries for data analytics: Pandas, NumPy, SciPy.
