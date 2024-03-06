@@ -33,7 +33,12 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - Acquiring and Visualizing Data, Simultaneous acquisition and visualization, Applications of Data Visualization, Keys factors of Data Visualization , Exploring the Visual Data Spectrum: charting Primitives (Data Points, Line Charts, Bar Charts, Pie Charts, Area Charts), Exploring advanced Visualizations (Candlestick Charts, Bubble Charts, Surface Charts, Map Charts) ; Narrative visualization and digital story Telling ,infographics and interactive dashboards
   
 ## Module  - 5 : Introduction to D3.js:
-- Getting setup with D3, Making selections, changing selection’s attribute, Loading and filtering External data : Building a graphic that uses all of the population distribution data, Data formats you can use with D3, Creating a server to upload your data, D3’s function for loading data, Dealing with Asynchronous requests, Loading and formatting Large Data Sets 
+- Getting setup with D3, Making selections, changing selection’s attribute, Loading and filtering External data.
+- Building a graphic that uses all of the population distribution data, Data formats you can use with D3,
+- Creating a server to upload your data, D3’s function for loading data, Dealing with Asynchronous requests,
+- Loading and formatting Large Data Sets
+[D3 Tutorial - FreeCodeCamp](https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/)
+[D3 tutorial - Tutorial Point](https://www.tutorialspoint.com/d3js/index.htm)
 
 ## Module  - 6 : Data analytics and Visualization with Python
 - Essential Data Libraries for data analytics: Pandas, NumPy, SciPy.
