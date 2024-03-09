@@ -20,8 +20,9 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - Logistic Regression Vs GLM, 
 - Linear Regression Vs Logistic Regression
 - Assessing the models.
-### [Practice Problem on Regression - University of Florida](https://users.stat.ufl.edu/~mripol/3024/PracticeExamRegression3024.pdf)
-### Colab Notebooks on Regression
+#### [Practice Problem on Regression - University of Florida](https://users.stat.ufl.edu/~mripol/3024/PracticeExamRegression3024.pdf)
+#### [Online Regression Calculator](https://www.graphpad.com/quickcalcs/linear2/)
+#### Colab Notebooks on Regression
   - [Regression using R : prepared based on Penn State University Stat 501 Course : Lesson 1](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/Stat501_Lesson_1.ipynb)
   - [MLR using R - Part 1 (University of Chicago)](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/MLR_using_R.ipynb)
   -  [MLR using R - Part 2 (University of Chicago)](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/MLR_using_R_(Part_2).ipynb)
