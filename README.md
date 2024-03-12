@@ -1,7 +1,16 @@
 # [Course : Data Analytics Visualization (ADC 601)](https://drive.google.com/file/d/16K5JdFv1x_A-EHbV-RSb-_g00qGkCbsF/view?usp=sharing)
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
-[Evaluation Scheme](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/DAV_Scheme.pdf)
+## [Evaluation Scheme](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/DAV_Scheme.pdf)
+| No | Rubrics | Marks | Document / Schedule |
+| :--: | ------------------ | :----: | :--------:|
+| 1 | End Semester Exam | 60 Marks | |
+| 2 | Internal Assessment | 20 Marks | [Mid-Term Paper](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/DAV_MT_Paper_Feb_2024.pdf), [Mid-Term Paper Solution](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/DAV_MT_Paper_Feb_2024_Solution.pdf) | |
+| 3 | Continuous Assessment | 20 Marks | |
+|   | a. MCQ-1 | 5 Marks | 2nd week of Feb 2024 |
+|   | b. MCQ-2 | 5 Marks | 4th week of Mar 2024 |
+|   | c. Mini-Project | 10 Marks | 5th week of Mar 2024 |
+
 ## [Module - 1 : Introduction to Data analytics and life cycle](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/M1_DAV.pdf)
 - **Data Analytics Lifecycle overview**: Key Roles for a Successful Analytics, Background and Overview of Data Analytics Lifecycle Project.  
 - **Phase 1**: Discovery: Learning the Business Domain, Resources Framing the Problem, Identifying Key Stakeholders. Interviewing the Analytics Sponsor, Developing Initial Hypotheses Identifying Potential Data Sources.
