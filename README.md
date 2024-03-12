@@ -10,6 +10,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 |   | a. MCQ-1 | 5 Marks | 2nd week of Feb 2024 |
 |   | b. MCQ-2 | 5 Marks | 4th week of Mar 2024 |
 |   | c. Mini-Project | 10 Marks | 5th week of Mar 2024 |
+|   | Total Marks | 100 Marks | |
 
 ## [Module - 1 : Introduction to Data analytics and life cycle](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/M1_DAV.pdf)
 - **Data Analytics Lifecycle overview**: Key Roles for a Successful Analytics, Background and Overview of Data Analytics Lifecycle Project.  
