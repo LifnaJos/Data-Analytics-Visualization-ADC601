@@ -10,6 +10,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 |   | a. MCQ-1 | 5 Marks | 2nd week of Feb 2024 |
 |   | b. MCQ-2 | 5 Marks | 4th week of Mar 2024 |
 |   | c. Mini-Project | 10 Marks | 5th week of Mar 2024 |
+|   | d. Content Beyond Syllabus Presentation | 10 Marks | 5th week of March 2024 |
 |   | Total Marks | 100 Marks | |
 
 ## [Module - 1 : Introduction to Data analytics and life cycle](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/M1_DAV.pdf)
@@ -40,6 +41,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 ## Module - 3 : Time Series
 - Definition of time series, Times series forecasting. Time series components, Decomposition – additive and multiplicative. Exponential smoothing, Holt winters method.
 - Time Series Analysis - Box-Jenkins Methodology, ARIMA Model Autocorrelation Function (ACF, PACF) Autoregressive Models ,Moving Average Models ,ARMA and ARIMA Models , Building and Evaluating an ARIMA Model.
+#### Colab Notebook : [Time Series Analysis using Python](https://colab.research.google.com/drive/14RkH8FQSOCo-cpIRXJeuovWjT6yOoq3F?usp=sharing)
 
 ## [Module - 4 : Introduction to Data Visualization](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/M4_DAV.pdf)
 - Acquiring and Visualizing Data, Simultaneous acquisition and visualization, Applications of Data Visualization, Keys factors of Data Visualization , Exploring the Visual Data Spectrum: charting Primitives (Data Points, Line Charts, Bar Charts, Pie Charts, Area Charts), Exploring advanced Visualizations (Candlestick Charts, Bubble Charts, Surface Charts, Map Charts) ; Narrative visualization and digital story Telling ,infographics and interactive dashboards
