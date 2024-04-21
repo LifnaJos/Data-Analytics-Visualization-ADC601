@@ -23,6 +23,14 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - **Phase 4**: Model Building: Common Tools for the Model Building Phase
 - **Phase 5**: Communicate Results
 - **Phase 6**: Operationalize
+### Sample Case Studies
+1. Imagine you are a data analyst working for a retail company that wants to optimize its marketing strategy for a new product launch. Utilizing the data analytics lifecycle, outline the key steps you would take from discovery to operationalization to ensure the success of this project. Be sure to discuss the specific activities and tools you would use in each phase, as well as how you would engage with stakeholders throughout the process to ensure alignment with business goals and objectives. Additionally, identify any potential challenges you might encounter at each stage and how you would mitigate them to keep the project on track.
+2. ABC Retail, a leading player in the fashion industry, aimed to enhance its sales forecasting accuracy to better manage inventory and meet customer demands efficiently. To achieve this, they embarked on a data analytics project. This case study illustrates how ABC Retail applied the data analytics lifecycle to achieve their objectives.
+3. Retail Store Optimization: How can a retail chain leverage the data analytics lifecycle to optimize its store layout, inventory management, and pricing strategies to maximize sales and enhance customer satisfaction?
+4. Healthcare Resource Allocation: In what ways can a healthcare provider utilize the data analytics lifecycle to analyze patient demographics, medical histories, and treatment outcomes to efficiently allocate resources and improve patient care while minimizing costs?
+5. Fraud Detection in Financial Transactions: How can a financial institution employ the data analytics lifecycle to detect and prevent fraudulent activities in real-time transactions, considering factors such as transaction patterns, account behavior, and historical fraud incidents?
+6. Energy Consumption Optimization: How might a utility company apply the data analytics lifecycle to analyze energy consumption patterns, identify areas of inefficiency, and develop targeted strategies to reduce energy waste and carbon footprint while maintaining service reliability?
+7. Predictive Maintenance in Manufacturing: In what ways can a manufacturing company utilize the data analytics lifecycle to predict equipment failures, optimize maintenance schedules, and minimize downtime, thereby improving operational efficiency and reducing maintenance costs?
 
 ## [Module - 2: Regression Models](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/M2_DAV.pdf)
 - Introduction to Regression
