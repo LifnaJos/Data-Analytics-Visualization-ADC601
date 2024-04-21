@@ -54,6 +54,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - Online Tutorials:
   - [D3 Tutorial - FreeCodeCamp](https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/)
   - [D3 tutorial - Tutorial Point](https://www.tutorialspoint.com/d3js/index.htm)
+ * Google Colab Notebooks were prepared by each every students based on the above tutorials.
 
 ## Module  - 6 : Data analytics and Visualization with Python
 - Essential Data Libraries for data analytics: Pandas, NumPy, SciPy.
@@ -63,7 +64,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
   - [General Charts in Colab](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/Charts_in_Colaboratory.ipynb)
 
 | No | Package Name | Contributor | Document |
-| :--: | ------------------ | :----: | :--------:|
+| :--: | ------------------ | ---- | :--------:|
 | 1 | Pandas | Shreeprasad Navare | [Colab Notebook]() |
 | 2 | SciPy | Suhanee Kandalkar | [Colab Notebook](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/Scipy_DAV_Mini_Pro.ipynb) |
 | 3 | NumPy | Alok Kale | [Colab Notebook](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/Numpy.ipynb) | 
