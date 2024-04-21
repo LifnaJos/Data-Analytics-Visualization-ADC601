@@ -61,6 +61,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - Introduction to seaborne Library, Multiple Plots, Regression plot, replot. Discover and visualize the data to gain insights, Feature scaling and Transformation pipelines
 * Google Colab prepared by D11AD Students as per the Syllabus and as a part of Content Beyond Syllabus
   - [General Charts in Colab](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/Charts_in_Colaboratory.ipynb)
+
 | No | Package Name | Contributor | Document |
 | :--: | ------------------ | :----: | :--------:|
 | 1 | Pandas | Shreeprasad Navare | [Colab Notebook]() |
