@@ -3,6 +3,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 ## [Evaluation Scheme](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/DAV_Scheme.pdf)
 - [Module-wise weightage sheet](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/DAV_Module_Weightage_2023-24.docx.pdf)
+  
 | No | Rubrics | Marks | Document / Schedule |
 | :--: | ------------------ | :----: | :--------:|
 | 1 | End Semester Exam | 60 Marks | |
