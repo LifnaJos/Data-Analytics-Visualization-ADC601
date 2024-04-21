@@ -59,8 +59,16 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - Essential Data Libraries for data analytics: Pandas, NumPy, SciPy.
 - Plotting and visualization with python: Introduction to Matplotlib, Basic Plotting with Matplotlib, Create Histogram, Bar Chart, Pie Chart, Box Plot, violin plot using Matplotlib, Matrix charts and heat maps.
 - Introduction to seaborne Library, Multiple Plots, Regression plot, replot. Discover and visualize the data to gain insights, Feature scaling and Transformation pipelines
-* Google Colab
-  - [Charts in Colab](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/Charts_in_Colaboratory.ipynb)  
+* Google Colab prepared by D11AD Students as per the Syllabus and as a part of Content Beyond Syllabus
+  - [General Charts in Colab](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/Charts_in_Colaboratory.ipynb)
+| No | Package Name | Contributor | Document |
+| :--: | ------------------ | :----: | :--------:|
+| 1 | Pandas | Shreeprasad Navare | [Colab Notebook]() |
+| 2 | SciPy | Suhanee Kandalkar | [Colab Notebook](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/Scipy_DAV_Mini_Pro.ipynb) |
+| 3 | NumPy | Alok Kale | [Colab Notebook](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/Numpy.ipynb) | 
+| 4 | Matpltlib | Mrunal Shinde | [Colab Notebook](https://github.com/Mrunal-Shinde/DAV_Experiments/blob/main/DAV_PRESENTATION_59.ipynb) |
+| 5 | Seaborn | Kapil Bodas | [Colab Notebook](https://github.com/BodasKapil/DAV_KAPIL_BODAS_68/blob/main/Seaborn_Presentation_68.ipynb) |
+| 6 | ggplot | Chaitali Gaikwad | [Colab Notebook](https://github.com/chaitali-gaikwad/DAV_Lab_ADL601/blob/main/Presentation/ggplot_DAV_Presentation_67.ipynb) |
 
 ## Online Resources 
 1. [Stat 501 : Regression Methods by  Penn State University, Online Course Notes](https://online.stat.psu.edu/stat501/)
