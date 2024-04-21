@@ -32,6 +32,8 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 - Linear Regression Vs Logistic Regression
 - Assessing the models.
 #### [Practice Problem on Regression - University of Florida](https://users.stat.ufl.edu/~mripol/3024/PracticeExamRegression3024.pdf)
+#### [Practice Problems on Multiple Lineaar Regression](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2fd8072c-f4d8-4125-a3e2-5b098d3370b9)
+#### [Practice Problems on Single Linear Regression](https://acrobat.adobe.com/id/urn:aaid:sc:AP:c41ba30f-b796-48b7-837f-abbc5c5ab756)
 #### [Online Regression Calculator](https://www.graphpad.com/quickcalcs/linear2/)
 #### Colab Notebooks on Regression
   - [Regression using R : prepared based on Penn State University Stat 501 Course : Lesson 1](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/main/PPTs/Stat501_Lesson_1.ipynb)
