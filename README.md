@@ -77,7 +77,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 | No | Package Name | Contributor | Document |
 | :--: | ------------------ | ---- | :--------:|
-| 1 | Pandas | Shreeprasad Navare | [Colab Notebook]() |
+| 1 | Pandas | Shreeprasad Navare | [Colab Notebook](https://github.com/nSHREEPRASAD/DAV/blob/main/Pandas_Notebook.ipynb) |
 | 2 | SciPy | Suhanee Kandalkar | [Colab Notebook](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/Scipy_DAV_Mini_Pro.ipynb) |
 | 3 | NumPy | Alok Kale | [Colab Notebook](https://github.com/LifnaJos/ADC601-Data-Analytics-Visualization/blob/DAV_Colab_Notebooks/Numpy.ipynb) | 
 | 4 | Matpltlib | Mrunal Shinde | [Colab Notebook](https://github.com/Mrunal-Shinde/DAV_Experiments/blob/main/DAV_PRESENTATION_59.ipynb) |
